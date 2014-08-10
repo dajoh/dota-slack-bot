@@ -1,0 +1,16 @@
+{
+  "SteamAPIKey": "xxx",
+  "SlackAPIURL": "https://xxx.slack.com/services/hooks/incoming-webhook?token=xxx",
+  "Accounts": [
+    {
+      "DotaID": 123123,
+      "SlackName": "<@person1>",
+      "LastMatchID": 0
+    },
+    {
+      "DotaID": 456456,
+      "SlackName": "<@person2>",
+      "LastMatchID": 0
+    }
+  ]
+}
